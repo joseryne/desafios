@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
+.iconos-nav{
+    width: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+    margin-left: 2%;
+}
+
+.bordeagua{
+    color: rgb(31, 235, 235);
+    text-align: center; 
+    padding: 10px 10px;
+    color: white;
+}
+
+.letra{
+    width: 100px;
+    padding-top: 10px 10px;
+    padding: 10px;
+    font-family: 'Dosis', sans-serif;
+}
+
+.bordelila{
+ background-color: rgb(212, 171, 250);
+ width: 190px;
+ height: 30px;
+}
+
+.bordeaguaosc{
+    width: 190px;
+    height: 30px;
+    background-color: aqua;
+}
+
+.bordegris{
+    background-color:  rgb(185, 185, 185);
+    width: 210px;
+    height: 105px;
+}
+
+.footerborde{
+    border-collapse: collapse;
+}
+
+.rectangulo{
+    background-color: rgb(238, 234, 234);
+    width: 100%; 
+    height: 400px;
+}
+
+.tdpaddin{
+    padding: 30px 30px 30px 30px;
+}
+
+.tdgris{
+background-color:  rgb(185, 185, 185);
+width: 200px; 
+vertical-align: top;
+padding: 0px;
+}
+
+.tabla{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+div{
+    margin: 0px;
+}
+
+.agua{
+    background-color: rgb(31, 235, 235);
+    margin: 0px;
+    text-align: center;
+    color: white;
+    height: 60px;   
+}
+
+

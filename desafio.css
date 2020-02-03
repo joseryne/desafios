@@ -1,0 +1,101 @@
+.table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.nav{
+    border-bottom: 1px solid rgb(173, 170, 170);
+}
+
+.nav-icono{
+    width: 30px;
+}
+
+.content-ventaTienda{
+    width: 35%;
+    background-color: rgb(205, 222, 238);
+    text-align: center;
+}
+
+.content-ventaTienda-img{
+    width: 300px;
+    
+}
+
+.content-ventaTienda-boton{
+    width: 150px;
+    height: 30px;
+    color: white;
+    background-color:  rgba(236, 11, 11, 0.808);
+    border-radius: 7px;
+    line-height: 32px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.content-ventaTienda-descripcion{
+    width: 300px;
+    margin: 0 auto;
+}
+
+.content-ventaMovil{
+    width: 35%;
+    background-color:white;
+    text-align: center;
+}
+.content-ventaMovil-img{
+    width: 300px;
+}
+
+.content-ventaMovil-descripcion{
+    width: 300px;
+    margin: 0 auto;
+}
+
+.content-ventaMovil-boton{
+    width: 150px;
+    height: 30px;
+    color: white;
+    background-color: rgba(236, 11, 11, 0.808);
+    border-radius: 7px;
+    line-height: 32px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.content-registro{
+    background-color:  rgb(183, 205, 226);
+    width: 30%;
+    text-align: justify;
+}
+
+.content-registro-boton{
+    width: 130px;
+    height: 30px;
+    color: white;
+    background-color: rgb(61, 195, 57);
+    border-radius: 7px;
+    line-height: 32px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.footer{
+     background-color: rgb(200, 53, 53);
+     text-align: center;
+     color: white;
+}
+
+.footer-sociales{
+    width: 30px;
+    text-align: end;
+   
+}
+h3{
+    color: rgb(59, 59, 197);
+    text-align: center;
+}
